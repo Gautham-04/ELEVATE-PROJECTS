@@ -1,1 +1,0 @@
-# Nmap 7.80 scan initiated Mon Oct 20 17:25:15 2025 as: "C:\\Program Files (x86)\\Nmap\\nmap.exe" -sS -sV -O -oA E:\\nmap_scan_results 192.168.1.0/24
