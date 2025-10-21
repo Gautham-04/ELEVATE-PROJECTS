@@ -13,3 +13,6 @@ SMB (Ports 139, 445) is OPEN: Exposing file and printer sharing services increas
 
 Full Report
 For a complete breakdown of all open ports, discovered hosts, and detailed hardening recommendations, please see the Network_Scan_Results.txt file.
+
+
+Every Day New Tasks are Uploaded in The same Repository
